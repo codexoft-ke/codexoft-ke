@@ -41,8 +41,8 @@
 
 ## 🤝 Let's Connect
 <div align="center">
-    <a href="https://linkedin.com/in/YourLinkedInProfile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
+    <a href="https://linkedin.com/in/martin-wainaina-43a841338"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/codexoft_ke"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
 </div>
 
 ---
