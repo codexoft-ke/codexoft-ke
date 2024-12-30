@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Martin Wainaina (@martinwainaina254)
+# 👋 Hi there, I'm Martin Wainaina (@codexoft-ke)
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Always+learning+new+things" alt="Typing SVG" />
@@ -24,19 +24,19 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=martinwainaina254&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinwainaina254&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinwainaina254&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=codexoft-ke&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexoft-ke&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexoft-ke&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=martinwainaina254&theme=radical" alt="Activity Graph" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=codexoft-ke&theme=radical" alt="Activity Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=martinwainaina254&theme=radical" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=codexoft-ke&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect
@@ -46,4 +46,4 @@
 </div>
 
 ---
-⭐️ From [martinwainaina254](https://github.com/martinwainaina254)
+⭐️ From [codexoft-ke](https://github.com/codexoft-ke)
